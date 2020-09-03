@@ -1,0 +1,4 @@
+this is used for inpput output in python
+take ecternal file read , write etc. function
+this is so amazingread and write moderead and write mode
+this is me
